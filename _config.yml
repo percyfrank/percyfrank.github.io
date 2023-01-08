@@ -20,7 +20,7 @@ title                    : "Gradual"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ohsuk"
-description              : "👨‍💻 Gradual"
+description              : "👨‍💻 Gradual Development"
 url                      : "https://percyfrank.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "percyfrank/percyfrank.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,8 +96,8 @@ analytics:
 # Site Author
 author:
   name             : "ohsuk"
-  avatar           : "/assets/images/noel.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "👨‍💻 Gradual"
+  avatar           : "/assets/images/profil2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "👨‍💻 Gradual Development"
   location         : "Seoul, Republic of Korea"
   email            :
   links:
@@ -117,15 +117,15 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/percyfrank"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/hong___o"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/_oh_sukk"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:percykwon@naver.com"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   url: "https://facebook.com/qkrwlsghd"
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "mailto:xlffm3@email.com"
 
 
 # Reading Files
