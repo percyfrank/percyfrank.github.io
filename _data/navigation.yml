@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Resume"
+    url: https://xlffm3.notion.site/xlffm3/d5ed848bced04634a408e69e5071e38a
+  - title: "Portfolio"
+    url: https://xlffm3.notion.site/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  # - title: "Books"
+  #   url: /books/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
